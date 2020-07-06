@@ -1,0 +1,90 @@
+	@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto+Slab:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto+Slab:wght@700&family=Source+Sans+Pro&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto+Slab:wght@700&family=Source+Sans+Pro:wght@300&display=swap');
+
+
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #1A13B3;
+	background: gray;
+	font-size: 20px;
+
+}
+
+h1 { 
+	font-family: 'Noto Sans JP', sans-serif;
+	font-family: 'Roboto Slab', serif;
+	color: #000000;
+	font-size: 60px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+h2 {
+	color: #1A13B3;
+}
+
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#slogan {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #1A13B3;
+	font-size: 30px;
+	text-align: center;
+}
+
+#first {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+
+#right {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+#blog-highlight {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
